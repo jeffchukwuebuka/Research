@@ -1,0 +1,45 @@
+Question 1. 
+Git:
+1. Git is software. 
+2. Git is a command line tool.
+3. Git is installed locally on the system.
+4. Git is maintained by linux.
+5. git is focused on version and code sharing.
+   
+Github: 
+1. Github is a service.
+2. Github is a graphical user interface.
+3. Github is hosted on the web.
+4. Github is maintained by microsoft.
+5. Github is focused on centralized source code hosting.
+  
+Question 2.
+The version control system helps manage the source code for the software team by keeps track of all the code modification.
+it is protects the source code from any uniteded human error and consequences.furthermore, tricking changes, collaboration and integration in developments tools.
+
+Question 3.
+Repositories in Git contain a collection of files of various different of a projects. these files are imported from the repository into the local server of the user for further updations and modifications in the content of the file.
+ 
+Question 4.
+i.create a folder for this project on your local hard drive 
+$ mkdir myproject
+2. change into this folder
+$ cd myproject
+3. initialize a new. empty Git repository here
+$ git init
+4. add all changes to the next (= first) commit
+$ git add.
+5. create this first commit
+git commit -m"initial commit"
+  
+Question 5.
+1.Git add: moves changes from the working directory to the staging area. this gives the opportunity to prepare a snapshot before committing it to the official hosting
+2.Git breach: this command is your general purpose breach administration tool. it lets you create isolated development environment within a single repository.
+3.Git checkout: in addition checking out old commits and old file revisions, git checkout is also the means to navigate existing breanches.
+
+Question
+Git: is distributed version control system that tracks chages ibn any set computer files.usually used for coordinating work among programmers colllabratively developing source code during software development.
+Question 
+Git directory : is where git stores the meta-data and object databae for your project. also git directory is configuration file for git.
+Question 10: if we delete the. git folder, the information saved by git will be lost, and directory will no longer act as a git repository.
+   
